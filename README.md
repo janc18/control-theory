@@ -15,3 +15,5 @@
 |USB type C Connector|||
 |DC DC Converter|||
 |Mix Components(Leds)|||
+|Power delivery IC|||
+|[ISOW14x2](https://www.ti.com/lit/ds/symlink/iso7740-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1725598433136)|| Reinforced Quad-Channel Digital Isolators|
