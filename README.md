@@ -1,7 +1,9 @@
 # INFO
 
-[A Primer on USB Type-C® and USB Power Delivery Applications and Requirements](https://www.ti.com/lit/SLYY109B)
-[USB PD: Power Delivery for Your Next Project](https://resources.altium.com/p/usb-power-delivery-your-next-project)
+[A Primer on USB Type-C® and USB Power Delivery Applications and Requirements](https://www.ti.com/lit/SLYY109B) \
+[USB PD: Power Delivery for Your Next Project](https://resources.altium.com/p/usb-power-delivery-your-next-project) \
+[AN232B-04 Data Throughput, Latency and Handshaking](https://ftdichip.com/wp-content/uploads/2020/08/AN232B-04_DataLatencyFlow.pdf)
+
 
 
 # BOM
