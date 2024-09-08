@@ -1,10 +1,10 @@
-# INFO
+# Features
+- Isolated plant
+- Plant-ID, Plant cal-data (eeprom)
+- USB-PD powered
 
-[A Primer on USB Type-C® and USB Power Delivery Applications and Requirements](https://www.ti.com/lit/SLYY109B) \
-[USB PD: Power Delivery for Your Next Project](https://resources.altium.com/p/usb-power-delivery-your-next-project) \
-[AN232B-04 Data Throughput, Latency and Handshaking](https://ftdichip.com/wp-content/uploads/2020/08/AN232B-04_DataLatencyFlow.pdf)
-
-
+# Design
+<img src="design.png" width="800" />
 
 # BOM
 ## Main Board
@@ -19,3 +19,9 @@
 |Mix Components(Leds)|||
 |Power delivery IC|||
 |[ISOW14x2](https://www.ti.com/lit/ds/symlink/iso7740-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1725598433136)|| Reinforced Quad-Channel Digital Isolators|
+
+# INFO
+
+[A Primer on USB Type-C® and USB Power Delivery Applications and Requirements](https://www.ti.com/lit/SLYY109B) \
+[USB PD: Power Delivery for Your Next Project](https://resources.altium.com/p/usb-power-delivery-your-next-project) \
+[AN232B-04 Data Throughput, Latency and Handshaking](https://ftdichip.com/wp-content/uploads/2020/08/AN232B-04_DataLatencyFlow.pdf)
