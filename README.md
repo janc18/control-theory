@@ -30,8 +30,8 @@ To use any kind of interface (SPI, I2c, JTAG, or a proprietary protocol) it's re
 # INFO
 [A Primer on USB Type-C® and USB Power Delivery Applications and Requirements](https://www.ti.com/lit/SLYY109B) \
 [USB PD: Power Delivery for Your Next Project](https://resources.altium.com/p/usb-power-delivery-your-next-project) \
-[AN232B-04 Data Throughput, Latency and Handshaking](https://ftdichip.com/wp-content/uploads/2020/08/AN232B-04_DataLatencyFlow.pdf)
-[FT2232D/H Fast Opto-Isolated Serial Interface Mode](https://www.ftdichip.com/Support/Documents/AppNotes/AN_131_FT2232D_H_Fast%20Opto-Isolated%20Serial%20Interface%20mode.pdf)
-[N2232-02 Bit Mode Functions for the FT223](https://www.ftdichip.com/Documents/AppNotes/AN2232C-02_FT2232CBitMode.pdf)
+[AN232B-04 Data Throughput, Latency and Handshaking](https://ftdichip.com/wp-content/uploads/2020/08/AN232B-04_DataLatencyFlow.pdf)\
+[FT2232D/H Fast Opto-Isolated Serial Interface Mode](https://www.ftdichip.com/Support/Documents/AppNotes/AN_131_FT2232D_H_Fast%20Opto-Isolated%20Serial%20Interface%20mode.pdf)\
+[N2232-02 Bit Mode Functions for the FT223](https://www.ftdichip.com/Documents/AppNotes/AN2232C-02_FT2232CBitMode.pdf)\
 [Examples  for the JTAG interface with Labview](https://ftdichip.com/software-examples/mpsse-projects/ftcjtag-examples/)
 
