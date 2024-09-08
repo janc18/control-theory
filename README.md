@@ -24,7 +24,7 @@
 ### Requirements
 To use any kind of interface (SPI, I2c, JTAG, or a proprietary protocol) it's require to send commands down the data stream
 - 12Mhz oscillator
-- External EEPROM
+- [External EEPROM - 93LC56BT-I/OT](https://ww1.microchip.com/downloads/en/DeviceDoc/21794G.pdf) 
 - LC Filter
 
 # INFO
