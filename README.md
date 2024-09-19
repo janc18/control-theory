@@ -17,8 +17,14 @@
 |USB type C Connector|||
 |DC DC Converter|||
 |Mix Components(Leds)|||
-|Power delivery IC|||
-|[ISOW14x2](https://www.ti.com/lit/ds/symlink/iso7740-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1725598433136)|| Reinforced Quad-Channel Digital Isolators|
+|[ST STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)|1.91 USD|Standalone USB PD sink controller with short-to-VBUS protections|
+|[ISO7760](https://www.ti.com/lit/gpn/iso7760)|2.59 USD| Robust EMC, six-channel, 6/0, reinforced digital isolator|
+
+## Connector power rails:
+- 3.3 V: LDO generated
+- 5 V: USB or Buck converter
+- 12 V: PD (optional)
+- 20 V: PD (optional)
 
 ## FT232HL
 ### Requirements
