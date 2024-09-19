@@ -11,14 +11,14 @@
 
 |Component|Price|Characteristics|
 |--|--|--|
-|[STM32H7R3V8T6](https://www.st.com/resource/en/datasheet/stm32h7r3a8.pdf)| 7.89 USD| 600 Mhz, 67 GPIO|
-|[FT232HL](https://ftdichip.com/products/ft232hl/)|4.09 USD| USB Hi-Speed to Single Channel Serial UART/FIFO/JTAG/SPI/I2C IC, LQFP-48|
+|[ST STM32H7R3V8T6](https://www.st.com/resource/en/datasheet/stm32h7r3a8.pdf)| 7.89 USD| 600 Mhz, 67 GPIO|
+|[FTDI FT232HL](https://ftdichip.com/products/ft232hl/)|4.09 USD| USB Hi-Speed to Single Channel Serial UART/FIFO/JTAG/SPI/I2C IC, LQFP-48|
 |[PCI Express Min](https://www.digikey.com.mx/en/products/detail/jae-electronics/MM60-52B1-E1-R650/2071034)|2.68 USD|CONN PCI EXP MIN FML 52POS 0.031|
 |USB type C Connector|||
 |DC DC Converter|||
 |Mix Components(Leds)|||
 |[ST STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)|1.91 USD|Standalone USB PD sink controller with short-to-VBUS protections|
-|[ISO7760](https://www.ti.com/lit/gpn/iso7760)|2.59 USD| Robust EMC, six-channel, 6/0, reinforced digital isolator|
+|[TI ISO7760](https://www.ti.com/lit/gpn/iso7760)|2.59 USD| Robust EMC, six-channel, 6/0, reinforced digital isolator|
 
 ## Connector power rails:
 - 3.3 V: LDO generated
