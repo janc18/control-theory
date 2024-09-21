@@ -37,7 +37,7 @@
 			)
 		)
 		(instances
-			(project "control_system"
+			(project "control_board"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "5")
 				)
@@ -76,7 +76,7 @@
 			)
 		)
 		(instances
-			(project "control_system"
+			(project "control_board"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "2")
 				)
@@ -115,7 +115,7 @@
 			)
 		)
 		(instances
-			(project "control_system"
+			(project "control_board"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "3")
 				)
@@ -154,7 +154,7 @@
 			)
 		)
 		(instances
-			(project "control_system"
+			(project "control_board"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "4")
 				)
@@ -162,7 +162,7 @@
 		)
 	)
 	(sheet
-		(at 203.2 82.55)
+		(at 199.39 68.58)
 		(size 24.13 24.13)
 		(fields_autoplaced yes)
 		(stroke
@@ -174,7 +174,7 @@
 		)
 		(uuid "cc0bfb9a-2be7-4e3c-8bb6-3b42908bcaf7")
 		(property "Sheetname" "Connector"
-			(at 203.2 81.8384 0)
+			(at 199.39 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -183,7 +183,7 @@
 			)
 		)
 		(property "Sheetfile" "connector.kicad_sch"
-			(at 203.2 107.2646 0)
+			(at 199.39 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,7 +193,7 @@
 			)
 		)
 		(instances
-			(project "control_system"
+			(project "control_board"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "6")
 				)

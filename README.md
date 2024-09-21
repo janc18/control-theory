@@ -4,7 +4,7 @@
 - USB-PD powered
 
 # Design
-<img src="design.png" width="800" />
+<img src="docs/design.png" width="800" />
 
 # BOM
 ## Main Board
