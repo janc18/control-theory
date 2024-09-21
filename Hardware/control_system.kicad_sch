@@ -1,0 +1,208 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "acca031a-6f31-41bd-bf7c-a4abb4bf7051")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 148.59 102.87)
+		(size 24.13 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "3010707a-8ee9-452e-8467-400bcdc991dd")
+		(property "Sheetname" "MCU"
+			(at 148.59 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 148.59 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Control System"
+				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 86.36)
+		(size 24.13 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "b389096f-601d-4fb6-9b0a-9485f91135c9")
+		(property "Sheetname" "USB Bridge"
+			(at 64.77 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_bridge.kicad_sch"
+			(at 64.77 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Control System"
+				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 86.36)
+		(size 24.13 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "b85eb9e5-1a7f-47a8-8a95-e5c03447c428")
+		(property "Sheetname" "Digital Isolator"
+			(at 105.41 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "digital_isolator.kicad_sch"
+			(at 105.41 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Control System"
+				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 63.5)
+		(size 24.13 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "c43f2e3f-578b-42a9-b824-c6330d141f17")
+		(property "Sheetname" "Power"
+			(at 149.86 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 149.86 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Control System"
+				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 82.55)
+		(size 24.13 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "cc0bfb9a-2be7-4e3c-8bb6-3b42908bcaf7")
+		(property "Sheetname" "Connector"
+			(at 203.2 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connector.kicad_sch"
+			(at 203.2 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Control System"
+				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
