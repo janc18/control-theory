@@ -37,7 +37,7 @@
 			)
 		)
 		(instances
-			(project "Control System"
+			(project "control_system"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "5")
 				)
@@ -76,7 +76,7 @@
 			)
 		)
 		(instances
-			(project "Control System"
+			(project "control_system"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "2")
 				)
@@ -115,7 +115,7 @@
 			)
 		)
 		(instances
-			(project "Control System"
+			(project "control_system"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "3")
 				)
@@ -154,7 +154,7 @@
 			)
 		)
 		(instances
-			(project "Control System"
+			(project "control_system"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "4")
 				)
@@ -193,7 +193,7 @@
 			)
 		)
 		(instances
-			(project "Control System"
+			(project "control_system"
 				(path "/acca031a-6f31-41bd-bf7c-a4abb4bf7051"
 					(page "6")
 				)
