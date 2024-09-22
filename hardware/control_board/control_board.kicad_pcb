@@ -1151,7 +1151,7 @@
 			(pintype "passive")
 			(uuid "7f118688-3b36-49cf-be88-98b6978890c1")
 		)
-		(model "${KIPRJMOD}/Library.pretty/USB-C.STEP"
+		(model "${KIPRJMOD}/Library.pretty/USB-C.step"
 			(offset
 				(xyz -1 11.2 -5.75)
 			)
@@ -1576,7 +1576,7 @@
 			(pintype "passive")
 			(uuid "c14fc24b-b676-4eb5-bccc-6d2f0e431990")
 		)
-		(model "${KIPRJMOD}/Library.pretty/USB-C.STEP"
+		(model "${KIPRJMOD}/Library.pretty/USB-C.step"
 			(offset
 				(xyz -1 11.2 -5.75)
 			)
@@ -3424,7 +3424,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "795b848b-ed3b-4c85-94e1-464aef2ed550")
 		)
-		(model "E:/Dropbox/Hardware/git/control-theory/hardware/control_board/Library.pretty/TX24-60R-6ST-N1E.stp"
+		(model "${KIPRJMOD}/Library.pretty/TX24-60R-6ST-N1E.stp"
 			(offset
 				(xyz 0 0 2.8)
 			)
@@ -4287,7 +4287,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "a5f8d2ae-0120-4599-a0dd-36ed730365e7")
 		)
-		(model "E:/Dropbox/Hardware/git/control-theory/hardware/control_board/Library.pretty/TX24-60R-6ST-N1E.stp"
+		(model "${KIPRJMOD}/Library.pretty/TX24-60R-6ST-N1E.stp"
 			(offset
 				(xyz 0 0 2.8)
 			)
