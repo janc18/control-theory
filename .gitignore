@@ -1,3 +1,4 @@
 fp-info-cache
 control_board-backups/
 *.lck
+*.bak
