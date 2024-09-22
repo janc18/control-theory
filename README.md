@@ -13,7 +13,8 @@
 |--|--|--|
 |[ST STM32H7R3V8T6](https://www.st.com/resource/en/datasheet/stm32h7r3a8.pdf)| 7.89 USD| 600 Mhz, 67 GPIO|
 |[FTDI FT232HL](https://ftdichip.com/products/ft232hl/)|4.09 USD| USB Hi-Speed to Single Channel Serial UART/FIFO/JTAG/SPI/I2C IC, LQFP-48|
-|[PCI Express Min](https://www.digikey.com.mx/en/products/detail/jae-electronics/MM60-52B1-E1-R650/2071034)|2.68 USD|CONN PCI EXP MIN FML 52POS 0.031|
+|[TX24-30R-6ST-H1E](https://www.jae.com/direct/topics/topics_file_download/?topics_id=66728&ext_no=06)|1.36 USD|Board-to-Board Connector, parallel/ vertical, 30 pos., 1.27mm pitch, Receptacle|
+|[TX25-30P-6ST-H1E](https://www.jae.com/direct/topics/topics_file_download/?topics_id=66780&ext_no=06)|0.98 USD|Board-to-Board Connector, parallel/ vertical, 30 pos., 1.27mm pitch, Plug|
 |USB type C Connector|||
 |DC DC Converter|||
 |Mix Components(Leds)|||
